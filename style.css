@@ -1,0 +1,274 @@
+body{
+    background: #fff5e0;
+    width: 99%;
+}
+.cubes{ 
+    top: 220px;
+    left: -27px;
+    position: absolute;
+    width: 100px;
+    height: 600px;
+}
+.cubes2{ 
+    top: 2120px;
+    left: -27px;
+    position: absolute;
+    width: 100px;
+    height: 600px;
+}
+.buttons{
+    margin-left: 190px;
+}
+.button1{
+    margin-left: 40px;
+    font-weight: bold;
+    font-size: x-large;
+    color: #fff5e0;
+    font-family: Arial;
+    text-decoration: none;
+}
+.button1:hover{
+    color: #fff5e080;
+}
+.decoration{
+    top: 30px;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    background-color:  #fff5e0;
+    z-index: 2;
+    transform: rotate(45deg);
+}
+.horizon{ 
+    height: 30px;
+    width: 100%;
+    background-color: #FFF5E0;
+}
+.horizon2{ 
+    margin-top: 10px;
+    height: 5px;
+    width: 100%;
+    background-color: #527853;
+}
+.horizon3{ 
+    margin-top: 30px;
+    height: 5px;
+    width: 100%;
+    background-color: #527853;
+}
+.line{ 
+    width: 5px;
+    background-color: #FFF5E0;
+    z-index: 1;
+}
+
+
+.obomne{
+    text-align: center;
+    color:  #fff5e0;
+    font-family: Arial;
+    position: absolute;
+    top: 400px; 
+}
+.photo{ 
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+.info1{ 
+    border-radius: 5px;
+    top: 150px;
+    border:#fff5e0, solid, 5px;
+    width: 700px;
+    height: 700px;
+    position: absolute;
+    background: rgb(255,245,224);
+    background: linear-gradient(90deg, rgba(255,245,224,1) 10%, rgba(255,245,224,1) 25%, rgba(82,120,83,1) 95%, rgba(82,120,83,1) 100%);
+}
+.info2{ 
+    padding: 10px;
+    border-radius: 5px;
+    left: 300px;
+    top: 1150px;
+    width: 700px;
+    height: 500px;
+    position: absolute;
+    background: rgb(255,245,224);
+    background: linear-gradient(90deg, rgba(255,245,224,1) 10%, rgba(255,245,224,1) 25%, rgba(82,120,83,1) 95%, rgba(82,120,83,1) 100%);
+}
+.info3{ 
+    position: relative;
+    top: 470px; 
+    right: -150px;
+    border-radius: 5px;
+    border:#fff5e0, solid, 5px;
+    width: 780px;
+    height: 690px;
+    background: rgb(255,245,224);
+    background: linear-gradient(90deg, rgba(255,245,224,1) 10%, rgba(255,245,224,1) 25%, rgba(82,120,83,1) 95%, rgba(82,120,83,1) 100%);
+}
+.storka{
+    display: flex;
+    padding: 15px;
+    position: absolute;
+    margin-top: 10px;
+    height: 7vh;
+    width: 1850px;
+    background-color: #527853;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Career{
+    position: relative;
+    top: 125px;
+}
+
+
+.greeting{
+    height: 90vh;
+    display: flex; 
+}
+.chesscareer{
+    height: 90vh;
+    display: flex;
+}
+.myblog{
+    height: 185vh;
+    text-align: center;
+}
+.basement{ 
+    height: 15vh;
+    background-color: #FFF5E0;
+    width: 100%;
+}
+
+.box1{
+    width: 50%;
+    background-color: #527853;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    color:  #fff5e0;
+    font-family: Arial;
+    text-align: left;
+}
+.box12{
+    width: 50%;
+    background-color: #527853;
+    color:  #fff5e0;
+    font-family: Arial;
+    text-align: left;
+    z-index: 0;
+}
+.box3{
+    height: 33.3%;
+    width: 100%;
+    background-color: #527853;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    color:  #fff5e0;
+    font-family: Arial;
+    text-align: left;
+}
+.links{ 
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.socialmedia{ 
+    display: flex;
+    position: relative;
+    left: -120px;
+}
+.socialmedia2{ 
+    position: relative;
+    top: 40px;
+    left: -30px;
+    font-size: large;
+    text-decoration: none;
+    font-family: Arial;
+    color: #527853;
+}
+.social{
+    margin-left: 60px;
+}
+.Githab{
+    display: flex;
+    font-size: large;
+    text-decoration: none;
+    font-family: Arial;
+    color: #527853;
+}
+.FizMat{
+    display: flex;
+    font-size: large;
+    text-decoration: none;
+    font-family: Arial;
+    color: #527853;
+    margin-top: 15px;
+}
+.Instagram{
+    display: flex;
+    font-size: large;
+    text-decoration: none;
+    font-family: Arial;
+    color: #527853;
+}
+.Telegram{
+    display: flex;
+    font-size: large;
+    text-decoration: none;
+    font-family: Arial;
+    color: #527853;
+}
+.X{
+    display: flex;
+    font-size: large;
+    text-decoration: none;
+    font-family: Arial;
+    color: #527853;
+}
+.Discord{
+    display: flex;
+    font-size: large;
+    text-decoration: none;
+    font-family: Arial;
+    color: #527853;
+}
+.FIDE{
+    display: flex;
+    font-size: large;
+    text-decoration: none;
+    font-family: Arial;
+    color: #527853;
+}
+
+
+.dot{
+    border-radius: 100%;
+    background-color: #FFF5E0;
+    margin-top: 50px;
+    width: 5px;
+    height: 5px;
+}
+.dots{
+    display: block;
+    left: 500px;
+    top: 50px;
+    position: relative;
+    width: 40px;
+    height: 140px;
+    z-index: 1;
+}
+.dots2{
+    display: block;
+    left: 1500px;
+    top: 200px;
+    position: relative;
+    width: 40px;
+    height: 140px;
+    z-index: 1;
+}
