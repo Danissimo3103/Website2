@@ -10,7 +10,7 @@ body{
     height: 600px;
 }
 .cubes2{ 
-    top: 2120px;
+    top: 2020px;
     left: -27px;
     position: absolute;
     width: 100px;
@@ -181,7 +181,7 @@ body{
 .socialmedia{ 
     display: flex;
     position: relative;
-    left: -120px;
+    left: -80px;
 }
 .socialmedia2{ 
     position: relative;
@@ -265,10 +265,11 @@ body{
 }
 .dots2{
     display: block;
-    left: 1500px;
+    left: 1430px;
     top: 200px;
     position: relative;
     width: 40px;
     height: 140px;
     z-index: 1;
 }
+
